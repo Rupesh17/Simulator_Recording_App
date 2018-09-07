@@ -7,7 +7,7 @@
 
 
 ## Requirements
-Mac OS 10.12.8
+Mac OS 10.12 and above
 
 
 ## Installation
