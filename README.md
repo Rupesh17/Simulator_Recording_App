@@ -16,18 +16,18 @@ Mac OS 10.12 and above
 
 Use uploaded App:
 
-#1: DownLoad the zip file from       
+ #1: DownLoad the zip file from       
     https://github.com/Rupesh17/Simulator_Recording_App/raw/master/Simulator_Recorder/Simulator_Recorder_App.zip
 
-#2: Unzip file, put the app in your mackbook Dock.
-#3: click on it
+ #2: Unzip file, put the app in your mackbook Dock.
+ #3: click on it
 
 Create your app with Code:
 
-#1: Download the code file https://github.com/Rupesh17/Simulator_Recording_App/blob/master/Simulator_Recorder/Simulator_Record_Code.AppleScript 
+ #1: Download the code file https://github.com/Rupesh17/Simulator_Recording_App/blob/master/Simulator_Recorder/Simulator_Record_Code.AppleScript 
 
-#2: Open it with Apple script simulator
-#3: Run the script OR export it as application and use it.
+ #2: Open it with Apple script simulator
+ #3: Run the script OR export it as application and use it.
 
 
 
