@@ -1,4 +1,4 @@
-# Simulator_Record_App
+# Simulator Record App
 
 ## Features
 * Ask to launch simulator if simulator is not open.
@@ -8,7 +8,7 @@
 
 
 ## Requirements
-Mac OS 10.12.8
+Mac OS 10.12 and above
 
 
 
