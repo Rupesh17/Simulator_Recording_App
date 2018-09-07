@@ -1,12 +1,14 @@
-# Simulator_record_script
+# Simulator_Record_App
 
 ## Features
 * Ask to launch simulator if simulator is not open.
 * Record video of simulator flow and save it in documents.
 * Open it with Quick time player for view.
 
+
 ## Requirements
 Mac OS 10.12.8
+
 
 ## Installation
 
@@ -20,7 +22,6 @@ Use uploaded App:
 Create your app with Code:
 
 #1: Download the code file https://github.com/Rupesh17/Simulator_Recording_App/blob/master/Simulator_Recorder/Simulator_Record_Code.AppleScript 
-
 #2: Open it with Apple script simulator
 #3: Run the script OR export it as application and use it.
 
