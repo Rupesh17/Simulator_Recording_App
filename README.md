@@ -1,4 +1,4 @@
-# Simulator_Record_App
+# Simulator Record App
 
 ## Features
 * Ask to launch simulator if simulator is not open.
